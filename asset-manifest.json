@@ -1,15 +1,15 @@
 {
-  "main.css": "/Olimas/todo-react-app/static/css/main.f7c75438.chunk.css",
-  "main.js": "/Olimas/todo-react-app/static/js/main.97970231.chunk.js",
-  "main.js.map": "/Olimas/todo-react-app/static/js/main.97970231.chunk.js.map",
-  "runtime~main.js": "/Olimas/todo-react-app/static/js/runtime~main.aca66bcc.js",
-  "runtime~main.js.map": "/Olimas/todo-react-app/static/js/runtime~main.aca66bcc.js.map",
-  "static/css/2.7f588ac1.chunk.css": "/Olimas/todo-react-app/static/css/2.7f588ac1.chunk.css",
-  "static/js/2.3022a969.chunk.js": "/Olimas/todo-react-app/static/js/2.3022a969.chunk.js",
-  "static/js/2.3022a969.chunk.js.map": "/Olimas/todo-react-app/static/js/2.3022a969.chunk.js.map",
-  "index.html": "/Olimas/todo-react-app/index.html",
-  "precache-manifest.f28a81542cdb67642c048d97b0db7c58.js": "/Olimas/todo-react-app/precache-manifest.f28a81542cdb67642c048d97b0db7c58.js",
-  "service-worker.js": "/Olimas/todo-react-app/service-worker.js",
-  "static/css/2.7f588ac1.chunk.css.map": "/Olimas/todo-react-app/static/css/2.7f588ac1.chunk.css.map",
-  "static/css/main.f7c75438.chunk.css.map": "/Olimas/todo-react-app/static/css/main.f7c75438.chunk.css.map"
+  "main.css": "/todo-react-app/static/css/main.f7c75438.chunk.css",
+  "main.js": "/todo-react-app/static/js/main.d1abb072.chunk.js",
+  "main.js.map": "/todo-react-app/static/js/main.d1abb072.chunk.js.map",
+  "runtime~main.js": "/todo-react-app/static/js/runtime~main.cc0f6714.js",
+  "runtime~main.js.map": "/todo-react-app/static/js/runtime~main.cc0f6714.js.map",
+  "static/css/2.7f588ac1.chunk.css": "/todo-react-app/static/css/2.7f588ac1.chunk.css",
+  "static/js/2.3022a969.chunk.js": "/todo-react-app/static/js/2.3022a969.chunk.js",
+  "static/js/2.3022a969.chunk.js.map": "/todo-react-app/static/js/2.3022a969.chunk.js.map",
+  "index.html": "/todo-react-app/index.html",
+  "precache-manifest.d4f619c40a49159b039dead8dd002712.js": "/todo-react-app/precache-manifest.d4f619c40a49159b039dead8dd002712.js",
+  "service-worker.js": "/todo-react-app/service-worker.js",
+  "static/css/2.7f588ac1.chunk.css.map": "/todo-react-app/static/css/2.7f588ac1.chunk.css.map",
+  "static/css/main.f7c75438.chunk.css.map": "/todo-react-app/static/css/main.f7c75438.chunk.css.map"
 }
