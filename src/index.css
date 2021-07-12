@@ -5,12 +5,24 @@ body {
   padding: 0;
 }
 
+.container {
+  min-height: 100%;
+  margin-top: 30px;
+  padding: 5px;
+  border: 1px solid #000;
+  text-align: center;
+}
+
 .todo {
-  margin-bottom: 1rem;
+  overflow-y: auto;
+  margin-bottom: 1em;
+  text-align: left;
+  background: #f3f3f3;
 }
 
 .todo.completed span {
   text-decoration: line-through;
+  height: auto;
 }
 
 .todo label {
@@ -20,10 +32,15 @@ body {
   justify-content: space-between;
   cursor: pointer;
   background: #f3f3f3;
-  padding: 1rem;
+  padding: 1rem 0.5rem 2rem 1rem;
 }
 
 .todo i {
+  padding: 5px;
   z-index: 2;
+}
+
+.input-field {
+  padding: 10px 0px 0px 0px;
 }
 
